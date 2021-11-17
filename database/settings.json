@@ -1,0 +1,6 @@
+{
+    "dburl1":"mongodb://mongodb:27017/",
+    "dburl":"mongodb+srv://xguerrerov:yiyo0903@cluster0.zqj7l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "dbcollection":"alfredo",
+    "collection":"pepegamer"
+}
